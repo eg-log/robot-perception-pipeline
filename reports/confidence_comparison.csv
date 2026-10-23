@@ -1,0 +1,4 @@
+threshold,detected_objects
+0.25,3
+0.5,2
+0.75,2
